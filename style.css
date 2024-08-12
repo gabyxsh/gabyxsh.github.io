@@ -5,8 +5,8 @@
 }
 
 .navbar{
-    height: 60px;
-    background-color: lightgray;
+    height:60px;
+    background-color: rgb(226, 183, 183);
 }
 .space{
     height: 150px;
@@ -40,7 +40,26 @@
     width: 65px;
 }
 
-i{
-    font-size: 10px;
-    margin: px;
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif
 }
+p1{
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+p2{
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+p3{
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+.button {
+  
+    border-radius: 20px;
+    background-color: black;
+    color: aliceblue;
+    font-style:italic
+}
+
+
+
